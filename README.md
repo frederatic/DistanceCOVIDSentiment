@@ -16,4 +16,4 @@ Twitter does not allow the sharing of data, thus only IDs can be shared. *Final_
 
 The code in this repository can then be run in turn on the acquired Twitter data to obtain the needed variables for analysis. Note that the code has been streamlined and turned into generic functions so they can also be used for other studies.
 
-For more details, you can read the full paper once released.
+For more details, please refer to the full paper (to be published).
