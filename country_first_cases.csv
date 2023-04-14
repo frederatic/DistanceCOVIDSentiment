@@ -1,0 +1,199 @@
+country_name,country_code,first_case_utc,source_news,source_tweet,Continent,Region
+China,CN,01-12-19 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Eastern Asia
+Thailand,TH,13-01-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,South-eastern Asia
+Japan,JP,16-01-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Eastern Asia
+South Korea,KR,20-01-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Eastern Asia
+Taiwan,TW,21-01-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Eastern Asia
+USA,US,21-01-20 00:00,NOT RELEVANT,NOT RELEVANT,North America,Northern America
+Singapore,SG,23-01-20 13:04,https://www.straitstimes.com/singapore/health/singapore-confirms-first-case-of-wuhan-virus,https://twitter.com/CGTNOfficial/status/1220339310701895680,Asia,South-eastern Asia
+France,FR,24-01-20 19:23,https://www.lexpress.fr/sciences-sante/sante/coronavirus-chinois-deux-cas-confirmes-en-france_2116328.html,https://twitter.com/bbcbreaking/status/1220792291239002115,Europe,Western Europe
+Malaysia,MY,25-01-20 03:42,https://www.nst.com.my/news/nation/2020/01/559563/breaking-3-coronavirus-cases-confirmed-johor-baru,https://twitter.com/cctvasiapacific/status/1220932875727491072,Asia,South-eastern Asia
+Nepal,NP,24-01-20 13:47,https://myrepublica.nagariknetwork.com/news/coronavirus-infected-found-in-nepal-mohp/,https://twitter.com/Swasthyakhabar/status/1220682116255469569,Asia,Southern Asia
+Vietnam,VN,23-01-20 13:20,https://vnexpress.net/dich-viem-phoi-corona/hai-nguoi-viem-phoi-vu-han-cach-ly-tai-benh-vien-cho-ray-4046299.html,https://twitter.com/CGTNOfficial/status/1220347937638645760,Asia,South-eastern Asia
+Australia,AU,25-01-20 00:00,https://www.abc.net.au/news/2020-01-25/first-confirmed-coronavirus-case-australian-as-china-toll-rises/11900428,https://twitter.com/EmiliaTerzon/status/1220874578798333953,Oceania,Australia and New Zealand
+Canada,CA,25-01-20 22:39,https://www.cp24.com/news/man-who-flew-to-toronto-from-china-is-canada-s-first-coronavirus-case-1.4783476,https://twitter.com/AshDKelly/status/1221201512472297472,North America,Northern America
+Cambodia,KH,27-01-20 12:18,https://www.channelnewsasia.com/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-787286,,Asia,South-eastern Asia
+Germany,DE,27-01-20 23:08,https://www.spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99?d=1580166533&sara_ecid=soci_upd_wbMbjhOSvViISjc8RPU89NcCvtlFcJ,https://twitter.com/r__worldnews/status/1221933917151858689,Europe,Western Europe
+Sri Lanka,LK,27-01-20 15:07,https://www.reuters.com/article/us-health-china-sri-lanka-idUSKBN1ZQ1WF,https://twitter.com/IamAsitha/status/1221811941254975489,Asia,Southern Asia
+Finland,FI,29-01-20 16:25,https://svenska.yle.fi/a/7-1442182,https://twitter.com/THLorg/status/1222541373741637637,Europe,Northern Europe
+United Arab Emirates,AE,29-01-20 05:56,https://gulfnews.com/uae/health/coronavirus-in-uae-four-of-a-family-infected-1.1580273983681,,Asia,Western Asia
+India,IN,30-01-20 08:12,https://www.thehindu.com/news/national/indias-first-coronavirus-infection-confirmed-in-kerala/article61638034.ece,https://twitter.com/MoHFW_INDIA/status/1222794730569977856,Asia,Southern Asia
+Philippines,PH,30-01-20 08:01,https://www.rappler.com/nation/186633-philippines-confirms-case-novel-coronavirus/,https://twitter.com/whophilippines/status/1222791945866465281,Asia,South-eastern Asia
+Italy,IT,30-01-20 21:19,https://www.reuters.com/article/us-china-health-italy-idUSKBN1ZT31H,https://twitter.com/Agenzia_Ansa/status/1222992733859721218,Europe,Southern Europe
+Russia,RU,31-01-20 12:37,https://tass.ru/obschestvo/7656549,https://twitter.com/Terrence_STR/status/1223028667858767873,Europe,Eastern Europe
+UK,GB,31-01-20 09:32,https://www.bbc.com/news/health-51325192,https://twitter.com/NickSloanKCK/status/1223178997695205376,Europe,Western Europe
+Sweden,SE,31-01-20 15:02,https://www.krisinformation.se/nyheter/2020/januari/forsta-bekraftade-fallet-av-coronavirus-i-sverige,https://twitter.com/sr_ekot/status/1223260290889998336,Europe,Northern Europe
+Slovenia,SI,04-03-20 20:12,https://www.rtvslo.si/zdravje/novi-koronavirus/prvi-potrjeni-primer-okuzbe-pri-nas-okuzeni-prisel-iz-maroka-prek-italije/516153,https://twitter.com/prav_ta/status/1235300511106109443,Europe,Southern Europe
+Belgium,BE,04-02-20 06:35,https://www.hln.be/binnenland/gerepatrieerde-belg-besmet-met-coronavirus-viroloog-van-ranst-geen-reden-om-ons-zorgen-te-maken~a7469d4f/?referrer=https%3A%2F%2Ft.co%2F,https://twitter.com/2019nCoVwatcher/status/1224589572987916293,Europe,Western Europe
+South Africa,ZA,05-03-20 12:18,https://www.nicd.ac.za/first-case-of-covid-19-coronavirus-reported-in-sa/,,Africa,Southern Africa
+Egypt,EG,14-02-20 16:53,https://twitter.com/WHOEgypt/status/1228375553130082304?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1228375553130082304%7Ctwgr%5E53405ea6f1e171f65a686c4b6a07059f1b5a3a51%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.dw.com%2Fen%2Fafrica-confirms-first-case-of-coronavirus%2Fa-52384446,https://twitter.com/breakingmkts/status/1228361677273473024,Africa,Northern Africa
+Iran,IR,19-02-20 12:07,https://www.timesofisrael.com/iran-reports-its-first-2-cases-of-the-new-coronavirus/,,Asia,Southern Asia
+Israel,IL,21-02-20 11:20,https://www.timesofisrael.com/israel-confirms-first-coronavirus-case-as-cruise-ship-returnee-diagnosed/,,Asia,Western Asia
+Lebanon,LB,21-02-20 12:20,https://www.hindustantimes.com/world-news/coronavirus-outbreak-updates-first-covid-19-case-confirmed-in-lebanon/story-YFh6Zg7crbqVUlc3il2E7K.html,https://twitter.com/arabnews/status/1230829666736492544,Asia,Western Asia
+Afghanistan,AF,24-02-20 03:46,https://www.voanews.com/a/science-health_coronavirus-outbreak_afghanistans-first-case-coronavirus-confirmed/6184739.html,,Asia,Southern Asia
+Bahrain,BH,24-02-20 06:13,https://www.bna.bh/en/COVID19.aspx?cms=q8FmFJgiscL2fwIzON1%2bDgdRwjYzx8yqJfGfSBhU4yI%3d,https://twitter.com/bna_en/status/1231824381275463680?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1231824381275463680%7Ctwgr%5Efbf36cb6d671d02856a5883f98e8a5df74fc1ebf%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fbahrainofw.com%2Fbahrain-covid-19-cases%2F,Asia,Western Asia
+Cuba,CU,12-03-20 00:46,https://www.reuters.com/article/health-coronavirus-cuba/update-1-cuba-confirms-first-coronavirus-cases-urges-citizens-to-make-own-masks-idUSL1N2B501N,https://twitter.com/CNN_Oppmann/status/1237902721216323590,North America,Caribbean
+Iraq,IQ,24-02-20 10:07,https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-live-updates/2020/02/24/58bdab58-56ad-11ea-ab68-101ecfec2532_story.html#link-KEJGZ5FEP42RBCPXJZ4J4JEZFQ,https://twitter.com/DijlahTv/status/1231883250261426177,Asia,Western Asia
+Kuwait,KW,24-02-20 06:39,https://www.kuna.net.kw/ArticleDetails.aspx?id=2864385&language=en,https://twitter.com/SaudiMOH/status/1231831109194911744,Asia,Western Asia
+Oman,OM,24-02-20 11:25,https://timesofoman.com/article/2805323/Oman/Health/No-new-cases-of-coronavirus-in-Oman-Ministry-of-Health,https://twitter.com/OmaniMOH/status/1231953302763528192,Asia,Western Asia
+Algeria,DZ,25-02-20 19:19,https://africatimes.com/2020/02/25/algerian-health-minister-confirms-first-covid-19-case/,https://twitter.com/bensedirazakar1/status/1232384686548279297,Africa,Northern Africa
+Austria,AT,25-02-20 11:57,https://www.theguardian.com/world/live/2020/feb/25/coronavirus-live-updates-outbreak-latest-news-italy-italia-deaths-symptoms-china-stocks-wall-street-dow-jones-economy-falls?filterKeyEvents=false&page=with:block-5e550afd8f086a28115b2205#block-5e550afd8f086a28115b2205,,Europe,Western Europe
+Croatia,HR,25-02-20 11:48,https://www.dw.com/en/coronavirus-updates-2-new-german-cases-in-separate-states/a-52516885,,Europe,Southern Europe
+Spain,ES,25-02-20 14:26,https://www.dw.com/en/coronavirus-updates-2-new-german-cases-in-separate-states/a-52516885,https://twitter.com/LaVanguardia/status/1232311028467126275,Europe,Southern Europe
+Switzerland,CH,25-02-20 14:58,https://www.dw.com/en/coronavirus-updates-2-new-german-cases-in-separate-states/a-52516885,https://twitter.com/breakingmkts/status/1232318577484521473,Europe,Western Europe
+Brazil,BR,26-02-20 10:34,https://www.reuters.com/article/china-health-brazil-idINL2N2AQ05S,https://twitter.com/BNOFeed/status/1232453080295211008,South America,South America
+Georgia,GE,26-02-20 18:10,https://www.reuters.com/article/us-china-health-georgia-idUSKCN20K2SY,https://twitter.com/BNOFeed/status/1232729573139402752,Asia,Western Asia
+Greece,GR,26-02-20 11:02,https://www.reuters.com/article/us-china-health-greece-idUSKCN20K1IA,https://twitter.com/BNOFeed/status/1232624025144381441,Europe,Southern Europe
+Macedonia,MK,26-02-20 14:56,https://www.slobodenpecat.mk/oficzijalno-potvrden-prviot-sluchaj-na-koronavirus-vo-makedonija/,https://twitter.com/Jerusalem_Post/status/1232695721784115200,Europe,Southern Europe
+Norway,NO,26-02-20 20:11,https://www.reuters.com/article/china-health-norway-idUSL8N2A90MR,https://twitter.com/BNOFeed/status/1232760638818136068,Europe,Northern Europe
+Pakistan,PK,26-02-20 16:22,https://www.reuters.com/article/us-china-health-pakistan-idUSKCN20K2M2,https://twitter.com/BNOFeed/status/1232702508914618370,Asia,Southern Asia
+Romania,RO,26-02-20 20:51,https://www.reuters.com/article/china-virus-romania-idUSXXN2AQ00A,https://twitter.com/BNOFeed/status/1232770085363888134,Europe,Eastern Europe
+Serbia,RS,06-03-20 09:37,https://www.reuters.com/article/us-healthcare-coronavirus-serbia-idUKKBN20T152,https://twitter.com/BNOFeed/status/1235862053635543043,Europe,Southern Europe
+Denmark,DK,27-02-20 05:39,https://www.reuters.com/article/us-china-health-denmark-case-idUSKCN20L0IB,https://twitter.com/BNOFeed/status/1232902976064380928,Europe,Northern Europe
+Estonia,EE,27-02-20 06:16,https://www.reuters.com/article/china-health-estonia-case-idUKR4N2AK016,https://twitter.com/BNOFeed/status/1232912446685360128,Europe,Northern Europe
+Netherlands,NL,27-02-20 20:14,https://www.rijksoverheid.nl/actueel/nieuws/2020/02/27/patient-met-nieuw-coronavirus-in-nederland,https://twitter.com/rivm/status/1233153407785062401,Europe,Western Europe
+Nigeria,NG,27-02-20 23:36,https://www.reuters.com/article/china-health-nigeria-idINL3N2AS0O6,https://twitter.com/DrEOEhanire/status/1233174033383989248,Africa,Western Africa
+San Marino,SM,27-02-20 16:00,https://twitter.com/IssRSMarino/status/1233043928661753857,https://twitter.com/BNOFeed/status/1233132922477203457,Europe,Southern Europe
+Azerbaijan,AZ,28-02-20 11:02,https://www.reuters.com/article/us-china-health-azerbaijan-idINKCN20M1IR,https://twitter.com/BNOFeed/status/1233347258726453250,Asia,Western Asia
+Belarus,BY,28-02-20 05:26,,https://twitter.com/BNOFeed/status/1233262083766194176,Europe,Eastern Europe
+Iceland,IS,28-02-20 15:06,https://www.reuters.com/article/uk-health-coronavirus-iceland-idUKKBN20P195,https://twitter.com/BNOFeed/status/1233408075501051909,Europe,Northern Europe
+Lithuania,LT,28-02-20 01:49,https://www.reuters.com/article/us-china-health-lithuania-case-idUSKCN20M0E2,https://twitter.com/BNOFeed/status/1233207650604789760,Europe,Northern Europe
+Mexico,MX,28-02-20 13:20,https://www.reuters.com/article/health-coronavirus-mexico-idUSL2N2AS0DZ,https://twitter.com/BNOFeed/status/1233381436977225729,North America,Central America
+Monaco,MC,28-02-20 23:21,,https://twitter.com/BNOFeed/status/1233532707403182083,Europe,Western Europe
+New Zealand,NZ,28-02-20 04:53,https://www.nzherald.co.nz/nz/coronavirus-first-case-in-new-zealand-after-person-arrives-from-iran/WOF6BHIJEAQABUZIV5AF75SXTE/,https://twitter.com/spectatorindex/status/1233253828876615680,Oceania,Australia and New Zealand
+Ecuador,EC,29-02-20 15:20,https://www.reuters.com/article/us-china-health-ecuador-idUSKBN20N0S5,https://twitter.com/BNOFeed/status/1233774041556799488,South America,South America
+Ireland,IE,29-02-20 20:50,https://www.reuters.com/article/china-health-ireland-idINS8N27R08A,https://twitter.com/BNOFeed/status/1233857170304897031,Europe,Western Europe
+Luxembourg,LU,29-02-20 19:45,https://www.reuters.com/article/us-china-health-luxembourg-idUSKBN20N111,https://twitter.com/BNOFeed/status/1233840842323918848,Europe,Western Europe
+Qatar,QA,29-02-20 11:22,https://www.reuters.com/article/us-china-health-qatar-idUSKBN20N0IB,https://twitter.com/BNOFeed/status/1233714047801069568,Asia,Western Asia
+Armenia,AM,01-03-20 03:50,https://www.reuters.com/article/us-china-health-armenia-idUSKBN20O1A5,https://twitter.com/spectatorindex/status/1233962742198857728,Asia,Western Asia
+Czech Republic,CZ,01-03-20 15:00,https://www.reuters.com/article/us-china-health-czech-idUSKBN20O1XK,https://twitter.com/CT24zive/status/1234131335670829056,Europe,Eastern Europe
+Dominican Republic,DO,01-03-20 15:16,,https://twitter.com/jadrovet/status/1234135505522118657,North America,Caribbean
+Puerto Rico,PR,14-03-20 00:38,,https://twitter.com/BNOFeed/status/1238625620977954818,North America,Caribbean
+Andorra,AD,02-03-20 09:15,https://www.reuters.com/article/health-coronavirus-andorra-idUSL5N2AR92V,https://twitter.com/BNOFeed/status/1234406857680261120,Europe,Southern Europe
+Indonesia,ID,02-03-20 04:16,https://www.reuters.com/article/uk-health-coronavirus-indonesia-idUKKBN20P0GP,https://twitter.com/BNOFeed/status/1234331728837214209,Asia,South-eastern Asia
+Jordan,JO,02-03-20 14:06,https://www.reuters.com/article/health-coronavirus-jordan-idINKBN20P22G,https://twitter.com/BNOFeed/status/1234465207851900929,Asia,Western Asia
+Latvia,LV,02-03-20 16:51,https://www.reuters.com/article/us-health-coronavirus-latvia-idCAKBN20P2IU,https://twitter.com/BNOFeed/status/1234521680598491137,Europe,Northern Europe
+Morocco,MA,02-03-20 20:51,https://www.reuters.com/article/us-health-coronavirus-morocco-idUSKBN20P33T,https://twitter.com/spectatorindex/status/1234582183152476160,Africa,Northern Africa
+Portugal,PT,02-03-20 10:27,https://www.reuters.com/article/us-health-coronavirus-portugal-idUSKBN20P1BB,https://twitter.com/BNOFeed/status/1234423627560427521,Europe,Southern Europe
+Saudi Arabia,SA,02-03-20 16:16,https://www.reuters.com/article/us-health-coronavirus-saudi-idUSKBN20P2FK,https://twitter.com/BNOFeed/status/1234518985636446209,Asia,Western Asia
+Senegal,SN,02-03-20 16:51,https://www.reuters.com/article/us-health-coronavirus-senegal-idUSKBN20P2JX,https://twitter.com/BNOFeed/status/1234521680598491137,Africa,Western Africa
+Tunisia,TN,02-03-20 15:22,https://www.reuters.com/article/health-coronavirus-tunisia-idUKL1N2AV0ST,https://twitter.com/BNOFeed/status/1234500447014129671,Africa,Northern Africa
+Argentina,AR,03-03-20 17:39,https://www.reuters.com/article/health-coronavirus-argentina-idUSE6N27A05B,https://twitter.com/BNOFeed/status/1234896223603220480,South America,South America
+Chile,CL,03-03-20 20:01,https://www.reuters.com/article/us-health-coronavirus-chile-idUSKBN20Q2UU,https://twitter.com/BNOFeed/status/1234936350195015682,South America,South America
+Liechtenstein,LI,03-03-20 15:49,https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/erster-positiv-getesteter-corona-verdachtsfall-art-413173,https://twitter.com/landenkompas/status/1234920383230480385,Europe,Western Europe
+Ukraine,UA,03-03-20 09:04,https://www.reuters.com/article/us-health-coronavirus-ukraine-idUSKBN20Q0ZH,https://twitter.com/spectatorindex/status/1234766662630436864,Europe,Eastern Europe
+Faroe Islands,FO,04-03-20 11:27,,https://twitter.com/BloodySwede424/status/1235164903511674881,Europe,Northern Europe
+French Guiana,GF,04-03-20 20:00,https://www.stvincenttimes.com/five-coronavirus-cases-confirmed-in-french-guiana/,https://twitter.com/ars_guyane/status/1235278951356010496,South America,South America
+Hungary,HU,04-03-20 17:39,https://www.reuters.com/article/us-health-coronavirus-hungary-idCAKBN20R2RA,https://twitter.com/BNOFeed/status/1235258480308740101,Europe,Eastern Europe
+Poland,PL,04-03-20 07:11,https://www.reuters.com/article/us-health-coronavirus-poland-idUSKBN20R0U7,https://twitter.com/BNOFeed/status/1235100564632899585,Europe,Eastern Europe
+Togo,TG,06-03-20 14:09,,https://twitter.com/24Heureinfo/status/1235930572578570242,Africa,Western Africa
+Bhutan,BT,06-03-20 03:42,https://www.reuters.com/article/us-health-coronavirus-southasia-idUSKBN20T0QB,https://twitter.com/BNOFeed/status/1235772743502761986,Asia,Southern Asia
+Bosnia and Herzegovina,BA,05-03-20 07:58,https://www.reuters.com/article/us-health-coronavirus-bosnia-idUSKBN20S0QU,https://twitter.com/BNOFeed/status/1235476195006808064,Europe,Southern Europe
+Vatican,VA,06-03-20 09:26,https://www.reuters.com/article/health-coronavirus-vatican-idUKL8N2AZ28W,https://twitter.com/BNOFeed/status/1235859262850523136,Europe,Southern Europe
+Palestine,PS,05-03-20 08:32,https://web.archive.org/web/20200406111548/https://www.aa.com.tr/en/middle-east/palestine-confirms-7-coronavirus-cases-in-bethlehem-/1756291,https://twitter.com/BNOFeed/status/1235483434866348032,Asia,Western Asia
+Cameroon,CM,06-03-20 09:00,https://www.reuters.com/article/health-coronavirus-cameroon-idINL8N2AZ1ZJ,https://twitter.com/BNOFeed/status/1235862053635543043,Africa,Middle Africa
+Colombia,CO,06-03-20 20:12,https://www.reuters.com/article/health-coronavirus-colombia-idUSL1N29R129,https://twitter.com/BNOFeed/status/1236022509604044801,South America,South America
+Costa Rica,CR,06-03-20 21:09,https://www.reuters.com/article/health-coronavirus-costa-rica-idINE1N28L005,https://twitter.com/CNNEE/status/1236043373485715456,North America,Central America
+Peru,PE,06-03-20 12:41,https://www.reuters.com/article/us-health-coronavirus-peru-idUSKBN20T1S9,https://twitter.com/BNOFeed/status/1235908245555904514,South America,South America
+Slovakia,SK,06-03-20 11:01,https://www.reuters.com/article/us-health-coronavirus-slovakia-idUKKBN20T1D8,https://twitter.com/BNOFeed/status/1235908245555904514,Europe,Eastern Europe
+Maldives,MV,07-03-20 16:24,https://www.reuters.com/article/health-coronavirus-maldives-idUKL4N2B00AG,https://twitter.com/BNOFeed/status/1236332034735439880,Asia,Southern Asia
+Malta,MT,07-03-20 11:21,https://www.reuters.com/article/us-health-coronavirus-malta-idUSKBN20U0GK,,Europe,Southern Europe
+Moldova,MD,07-03-20 20:32,https://old.msmps.gov.md/ro/content/republica-moldova-fost-confirmat-primul-caz-de-coronavirus-se-iau-masuri-pentru-limitarea,https://twitter.com/BNOFeed/status/1236389378886336512,Europe,Eastern Europe
+Paraguay,PY,07-03-20 17:52,https://www.reuters.com/article/us-health-coronavirus-paraguay-idUSKBN20U0TC,https://twitter.com/BNOFeed/status/1236349031963594752,South America,South America
+Albania,AL,09-03-20 00:05,https://www.reuters.com/article/health-coronavirus-albania-idUSL8N2B200C,https://twitter.com/BNOFeed/status/1236805155594657792,Europe,Southern Europe
+Bangladesh,BD,08-03-20 10:33,https://www.reuters.com/article/health-coronavirus-bangladesh-idINL8N2B10C7,https://twitter.com/BNOFeed/status/1236600938569371649,Asia,Southern Asia
+Bulgaria,BG,07-03-20 22:31,https://www.reuters.com/article/uk-health-coronavirus-bulgaria-idAFKBN20V09Y,https://twitter.com/BNOFeed/status/1236419192359923713,Europe,Eastern Europe
+Brunei,BN,09-03-20 12:10,https://www.reuters.com/article/uk-health-coronavirus-brunei-idUKKBN20X1WC,https://twitter.com/borneo_bulletin/status/1236987681088757760,Asia,South-eastern Asia
+Burkina Faso,BF,09-03-20 21:11,https://www.reuters.com/article/us-health-coronavirus-burkina-idUSKBN20W2Y9,,Africa,Western Africa
+Cyprus,CY,09-03-20 16:15,https://www.reuters.com/article/us-health-coronavirus-cyprus-idUSKBN20W2BQ,https://twitter.com/NorbertElekes/status/1237088462286852096,Asia,Western Asia
+Panama,PA,10-03-20 01:37,https://www.reuters.com/article/us-health-coronavirus-panama-idUSKBN20X05F,https://twitter.com/BNOFeed/status/1237190747461427203,North America,Central America
+Bolivia,BO,11-03-20 00:08,https://www.reuters.com/article/health-coronavirus-bolivia-idUSL1N2B32JX,https://twitter.com/BNOFeed/status/1237530702461075458,South America,South America
+Democratic Republic of the Congo,CD,10-03-20 14:21,https://www.reuters.com/article/us-health-coronavirus-congo-idUSKBN20X20F,https://twitter.com/NationBreaking/status/1237391843861475329,Africa,Middle Africa
+Honduras,HN,11-03-20 09:07,https://www.reuters.com/article/us-health-coronavirus-honduras-idUSKBN20Y1WE,https://twitter.com/BNOFeed/status/1237666405996269570,North America,Central America
+Jamaica,JM,10-03-20 18:30,,https://twitter.com/BNOFeed/status/1237445791893147649,North America,Caribbean
+Mongolia,MN,10-03-20 01:10,https://www.reuters.com/article/us-health-coronavirus-mongolia-idUSKBN20X03F,https://twitter.com/BNOFeed/status/1237190747461427203,Asia,Eastern Asia
+Ivory Coast,CI,11-03-20 15:16,https://www.reuters.com/article/us-health-coronavirus-ivorycoast-idUSKBN20Y2BT,https://twitter.com/rakidi/status/1237759417136840705,Africa,Western Africa
+Guyana,GY,12-03-20 01:38,https://www.reuters.com/article/health-coronavirus-guyana-confirmed-idUSL1N2B502X,,South America,South America
+Turkey,TR,10-03-20 21:55,,https://twitter.com/ragipsoylu/status/1237497404720590863,Asia,Western Asia
+Gabon,GA,12-03-20 23:56,https://www.reuters.com/article/us-health-coronavirus-ghana-gabon-idUSKBN20Z3X9,,Africa,Middle Africa
+Ghana,GH,12-03-20 22:18,https://www.reuters.com/article/us-health-coronavirus-ghana-gabon-idUSKBN20Z3X9,https://twitter.com/Serwaa_Amihere/status/1238227973104427010,Africa,Western Africa
+Antigua,AG,13-03-20 15:10,https://barbados.loopnews.com/content/antigua-and-barbuda-records-first-case-coronavirus-4,https://twitter.com/KevzPolitics/status/1238482498776190976,North America,Caribbean
+Aruba,AW,13-03-20 19:09,https://24ora.com/dos-caso-di-coronavirus-na-aruba-di-cual-un-ta-arubiano/,https://twitter.com/masnoticia/status/1238542732882112512,North America,Caribbean
+Curacao,CW,13-03-20 13:37,https://www.thedailyherald.sx/islands/first-coronavirus-case-in-curacao,https://twitter.com/JomarBenschop/status/1238459057255723014,North America,Caribbean
+Ethiopia,ET,13-03-20 11:36,https://www.reuters.com/article/us-health-coronavirus-ethiopia-idUSKBN2101KF,,Africa,Eastern Africa
+Guadeloupe,GP,12-03-20 22:40,,https://twitter.com/Prefet971/status/1238233493051772931,North America,Caribbean
+Guatemala,GT,13-03-20 19:53,https://www.reuters.com/article/salud-guatemala-coronavirus-idLTAKBN21034U,,North America,Central America
+Guinea,GN,13-03-20 10:12,,https://twitter.com/UmaruFofana/status/1238407632966295552,Africa,Western Africa
+Kazakhstan,KZ,13-03-20 08:45,https://www.reuters.com/article/health-coronavirus-kazakhstan-idUSR4N28J00E,,Asia,Central Asia
+Kenya,KE,13-03-20 07:43,https://www.reuters.com/article/health-coronavirus-kenya-idAFL8N2AW47N,,Africa,Eastern Africa
+Madagascar,MG,20-03-20 16:58,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Mauritania,MR,13-03-20 22:20,https://www.reuters.com/article/health-coronavirus-mauritania-idINL8N2B687X,https://twitter.com/no_itsmyturn/status/1238590733365452806,Africa,Western Africa
+Sudan,SD,13-03-20 13:40,https://www.reuters.com/article/uk-health-coronavirus-sudan-idAFKBN21023T,https://twitter.com/RobertAlai/status/1238459865393254400,Africa,Northern Africa
+Uruguay,UY,13-03-20 19:56,https://www.reuters.com/article/health-coronavirus-uruguay-idUSE6N29R033,,South America,South America
+Central African Republic,CF,14-03-20 20:12,https://www.reuters.com/article/health-coronavirus-centralafrica-idUSL8N2B62KD,,Africa,Middle Africa
+Republic of Congo,CG,14-03-20 23:57,https://www.reuters.com/article/us-health-coronavirus-congorepublic-idUSKBN212001,https://twitter.com/ParidelMack/status/1238977656844161025,Africa,Middle Africa
+Djibouti,DJ,18-03-20 05:19,https://www.reuters.com/article/ozatp-uk-health-coronavirus-djibouti-idAFKBN2151X0-OZATP,https://twitter.com/ymahmoudali/status/1240145827479379969,Africa,Eastern Africa
+Equatorial Guinea,GQ,14-03-20 14:48,https://www.reuters.com/article/health-coronavirus-equatorial-idINL8N2B80MB,https://twitter.com/XHNews/status/1238839314043121669,Africa,Middle Africa
+Namibia,NA,14-03-20 08:21,https://www.reuters.com/article/uk-health-coronavirus-namibia-idUKKBN2110CB,https://twitter.com/TheNamibian/status/1238741937403899904,Africa,Southern Africa
+Rwanda,RW,14-03-20 08:56,https://www.reuters.com/article/us-health-coronavirus-rwanda-idUSKBN2110G0,https://twitter.com/RwandaHealth/status/1238750897599102976,Africa,Eastern Africa
+Suriname,SR,13-03-20 19:50,https://www.reuters.com/article/health-coronavirus-suriname-confirmed/suriname-confirms-first-coronavirus-case-authorities-will-close-borders-idUSL1N2B623A,https://twitter.com/KevzPolitics/status/1238553716770459648,South America,South America
+Swaziland,SZ,13-03-20 21:02,https://www.reuters.com/article/health-coronavirus-eswatini-idINL8N2B61KE,https://twitter.com/EswatiniGovern1/status/1238571063593832449,Africa,Southern Africa
+Trinidad,TT,12-03-20 20:18,,https://twitter.com/Newsday_TT/status/1238197361559638018,North America,Caribbean
+Venezuela,VE,13-03-20 15:19,https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKBN2102DR,,South America,South America
+Bahamas,BS,15-03-20 17:14,,https://twitter.com/KevzPolitics/status/1239238519127789568,North America,Caribbean
+Guam,GU,15-03-20 08:22,,https://twitter.com/PNCGuam/status/1239104673975435265,Oceania,Micronesia
+Seychelles,SC,14-03-20 18:21,https://www.reuters.com/article/us-health-coronavirus-seychelles-idUSKBN2110ZI,,Africa,Eastern Africa
+Uzbekistan,UZ,15-03-20 05:37,https://www.reuters.com/article/health-coronavirus-uzbekistan-idUSL8N2B802F,https://twitter.com/TRTWorldNow/status/1239063132208840704,Asia,Central Asia
+Benin,BJ,16-03-20 13:07,,https://twitter.com/tribune229/status/1239538846976675845,Africa,Western Africa
+Greenland,GL,16-03-20 13:50,,https://twitter.com/madsfred/status/1239549524395405312,North America,Northern America
+Grenada,GD,22-03-20 16:38,NOT RELEVANT,NOT RELEVANT,North America,Caribbean
+Liberia,LR,16-03-20 09:42,https://www.reuters.com/article/health-coronavirus-liberia-idINL8N2B932Q,,Africa,Western Africa
+Somalia,SO,16-03-20 12:29,,https://twitter.com/SomaliGuardian/status/1239529294638075904,Africa,Eastern Africa
+Tanzania,TZ,16-03-20 11:49,,https://twitter.com/CiruMuriuki/status/1239519139305345025,Africa,Eastern Africa
+Barbados,BB,17-03-20 14:09,,https://twitter.com/slunewsonline/status/1239916681792643073,North America,Caribbean
+Gambia,GM,17-03-20 21:18,https://www.reuters.com/article/health-coronavirus-gambia-idUSL8N2BA9TQ,https://twitter.com/MohGambia/status/1240024648785571841,Africa,Western Africa
+Montenegro,ME,17-03-20 19:23,https://www.reuters.com/article/us-health-coronavirus-montenegro-idUSKBN2143SY,https://twitter.com/OrdoNews/status/1239995889638236160,Europe,Southern Europe
+Bermuda,BM,18-03-20 21:12,,https://twitter.com/bernewsdotcom/status/1240384315239718912,North America,Northern America
+El Salvador,SV,19-03-20 02:36,https://www.reuters.com/article/us-health-coronavirus-el-salvador-idUSKBN2160CF,https://twitter.com/infrapolitics/status/1240467185337872384,North America,Central America
+Kyrgyzstan,KG,18-03-20 03:27,https://www.reuters.com/article/health-coronavirus-kyrgyzstan/kyrgyzstan-confirms-first-coronavirus-cases-idINR4N28J00P,https://twitter.com/TRTWorldNow/status/1240117250725679104,Asia,Central Asia
+Zambia,ZM,18-03-20 10:31,https://www.reuters.com/article/uk-health-coronavirus-zambia-idAFKBN2151ND,https://twitter.com/BuyoyaJonah/status/1240224260515401730,Africa,Eastern Africa
+Chad,TD,19-03-20 14:47,https://www.reuters.com/article/health-coronavirus-chad-idUKL8N2BB36N,,Africa,Middle Africa
+Fiji,FJ,19-03-20 01:00,,https://twitter.com/Nadokoulu/status/1240443098276040704,Oceania,Melanesia
+Haiti,HT,19-03-20 22:36,,https://twitter.com/BouchJe/status/1240769182297456640,North America,Caribbean
+Nicaragua,NI,19-03-20 02:00,https://www.reuters.com/article/us-health-coronavirus-nicaragua-idUSKBN21608Q,https://twitter.com/BNOFeed/status/1240466372653731842,North America,Central America
+Niger,NE,19-03-20 20:10,https://www.reuters.com/article/us-health-coroanvirus-niger-idUSKBN2163S3,,Africa,Western Africa
+Papua New Guinea,PG,20-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Melanesia
+Zimbabwe,ZW,20-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Angola,AO,21-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Middle Africa
+Eritrea,ER,21-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Uganda,UG,22-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Dominica,DM,22-03-20 00:00,NOT RELEVANT,NOT RELEVANT,North America,Caribbean
+Mozambique,MZ,22-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Syria,SY,22-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Western Asia
+Timor-Leste,TL,21-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,South-eastern Asia
+Belize,BZ,23-03-20 00:00,NOT RELEVANT,NOT RELEVANT,North America,Central America
+Laos,LA,24-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,South-eastern Asia
+Libya,LY,24-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Northern Africa
+Burundi,BI,25-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Guinea-Bissau,GW,25-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Western Africa
+Mali,ML,25-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Western Africa
+Anguilla,AI,26-03-20 00:00,NOT RELEVANT,NOT RELEVANT,North America,Caribbean
+Myanmar,MM,27-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,South-eastern Asia
+Botswana,BW,30-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Southern Africa
+Sierra Leone,SL,31-03-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Western Africa
+Malawi,MW,02-04-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+South Sudan,SS,05-04-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Eastern Africa
+Yemen,YE,10-04-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Western Asia
+Bonaire,BQ,16-04-20 00:00,NOT RELEVANT,NOT RELEVANT,North America,Caribbean
+Tajikistan,TJ,30-04-20 00:00,NOT RELEVANT,NOT RELEVANT,Asia,Central Asia
+Lesotho,LS,13-05-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Southern Africa
+Vanuatu,VU,11-11-20 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Melanesia
+American Samoa,AS,09-11-20 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Polynesia
+Samoa,WS,18-11-20 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Polynesia
+Antarctica,AQ,21-12-20 00:00,NOT RELEVANT,NOT RELEVANT,Antarctica,Antarctica
+Nauru,NR,02-04-22 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Micronesia
+Tonga,TO,29-10-21 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Polynesia
+Saint Martin,SX,17-03-20 21:56,http://www.sintmaartengov.org/PressReleases/Pages/Prime-Minister-Silveria-Jacobs-National-Address-on-COVID19-MARCH-17-2020.aspx,https://twitter.com/sxm_time/status/1240034277162659842,North America,Caribbean
+Pitcairn Islands,PN,16-07-22 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Polynesia
+Palau,PW,31-05-21 00:00,NOT RELEVANT,NOT RELEVANT,Oceania,Micronesia
+Western Sahara,EH,04-04-20 00:00,NOT RELEVANT,NOT RELEVANT,Africa,Northern Africa
