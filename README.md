@@ -1,11 +1,19 @@
 # DistanceCOVIDSentiment
-Code and data used in a study on how spatial distance to COVID impacts Twitter sentiment
+Code and data used in the study *Impact of Spatial Distance on Public Attention and Sentiment during the Spread of COVID-19*
 
-The codes are numbered in the order they were run in our study.
-x contains the full list of IDs the final study ended up with after all the cleaning.
-Twitter does not allow the sharing of Twitter data, thus only IDs could be shared. The IDs can be hydrated either using Twarc in Python or this Hydrator tool.
-The code in this repository can then be run in turn on the acquired Twitter data to obtain our final dataset.
-Variables of the final dataset are explained in the txt file.
+The codes are numbered in order:
+1. Clean the tweets as described in the paper
+2. 
+    1. Geotags tweets from [COVID-19](https://github.com/echen102/COVID-19-TweetIDs) with location info
+    2. Geotags tweets from [GeoCov19](https://ieee-dataport.org/open-access/geocov19-dataset-hundreds-millions-multilingual-covid-19-tweets-location-information) with location info
+    3. Merge and organize the 2 datasets
+6. Compute the spatial distance of each tweet to the nearest country infected by COVID
+7. Compute the sentiment of each tweet using the VADER package
+8. Add the total worldwide cases at the time to each tweet
+9. Statistical Analysis + data visualization
 
+Twitter does not allow the sharing of data, thus only IDs can be shared. *Final_Tweet_IDs.csv* contains the full list of tweets the final study ended up with after all the steps. The IDs can be hydrated either using Twarc in Python or DocNow's [Hydrator tool](https://github.com/DocNow/hydrator).
 
-The associated paper to cite is currently in publication and will be posted here once published.
+Remaining files are data needed for the different pieces of code to run.
+
+The code in this repository can then be run in turn on the acquired Twitter data to obtain the needed variables for analysis. Note that the code has been streamlined and turned into generic functions so they can also be used for other studies. Especially code 2.1 might be of interest to people looking for an easy, free method of tagging tweets with locations.
