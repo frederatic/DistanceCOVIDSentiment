@@ -12,8 +12,6 @@ The codes are numbered in order:
 8. Add the total worldwide cases at the time to each tweet
 9. Statistical Analysis + data visualization
 
-Twitter does not allow the sharing of data, thus only IDs can be shared. *Final_Tweet_IDs.csv* contains the full list of tweets the final study ended up with after all the steps. The IDs can be hydrated either using Twarc in Python or DocNow's [Hydrator tool](https://github.com/DocNow/hydrator).
+Twitter does not allow the sharing of data, thus only IDs can be shared. *Final_Tweet_IDs.csv* contains the full list of tweets the final study ended up with after all the steps. The IDs can be hydrated either using Twarc in Python or DocNow's [Hydrator tool](https://github.com/DocNow/hydrator). Remaining files are data needed for the different pieces of code to run.
 
-Remaining files are data needed for the different pieces of code to run.
-
-The code in this repository can then be run in turn on the acquired Twitter data to obtain the needed variables for analysis. Note that the code has been streamlined and turned into generic functions so they can also be used for other studies. Especially code 2.1 might be of interest to people looking for an easy, free method of tagging tweets with locations.
+The code in this repository can then be run in turn on the acquired Twitter data to obtain the needed variables for analysis. Note that the code has been streamlined and turned into generic functions so they can also be used for other studies.
