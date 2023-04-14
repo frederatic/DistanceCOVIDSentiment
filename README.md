@@ -2,7 +2,7 @@
 Code and data used in the study *Impact of Spatial Distance on Public Attention and Sentiment during the Spread of COVID-19*
 
 The codes are numbered in order:
-1. Clean the tweets as described in the paper
+1. Cleans the tweets as described in the paper
 2. 
     1. Geotags tweets from [COVID-19](https://github.com/echen102/COVID-19-TweetIDs) with location info
     2. Geotags tweets from [GeoCov19](https://ieee-dataport.org/open-access/geocov19-dataset-hundreds-millions-multilingual-covid-19-tweets-location-information) with location info
