@@ -5,7 +5,7 @@ The codes are numbered in order:
 1. Cleans the tweets as described in the paper
 2. 
     1. Geotags tweets from [COVID-19](https://github.com/echen102/COVID-19-TweetIDs) with location info from the [GeoNames](http://www.geonames.org/) database
-    2. Geotags tweets from [GeoCov19](https://ieee-dataport.org/open-access/geocov19-dataset-hundreds-millions-multilingual-covid-19-tweets-location-information) with location info from GeoCov19 itself
+    2. Geotags tweets from [GeoCov19](https://ieee-dataport.org/open-access/geocov19-dataset-hundreds-millions-multilingual-covid-19-tweets-location-information) with location info from GeoCov19 itself (Feb 1 to March 19 2020)
     3. Merge and organize the 2 datasets
 6. Compute the spatial distance of each tweet to the nearest country infected by COVID
 7. Compute the sentiment of each tweet using the VADER package
