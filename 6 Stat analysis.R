@@ -50,12 +50,7 @@ lrtest(nb0, nb1, nb2)
 AICvlm(nb0)
 AICvlm(nb1)
 AICvlm(nb2)
-# Pseudo R2
-library(rcompanion)
-nagelkerke(nb0)
-nagelkerke(nb1) 
-nagelkerke(nb2)
-nagelkerke(nb2, nb1)
+
 
 
 #--------------------------SENTIMENT---------------------------------------
@@ -207,9 +202,9 @@ EtaSq(ancova)
 #--------------------------------FIGURES-----------------------------------------
 
 # Fig. 1: made in Illustrator
-# Fig. 2: made in Python + Illustrator
+# Fig. 3: made in Python + Illustrator
 
-# Fig. 3: 3D plot
+# Fig. 4: 3D plot
 # Manual approach: Interpolation + Persp()
 # Create data
 x <- seq(0,57,by=1)
