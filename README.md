@@ -18,4 +18,4 @@ The code in this repository can then be run on the acquired Twitter data to obta
 
 For more details, please refer to the freely available published paper:
 
-Atilla, F., & Zwaan, R. A. (2024). Impact of spatial distance on public attention and sentiment during the spread of COVID-19. Informatics in Medicine Unlocked, 101463. https://doi.org/10.1016/j.imu.2024.101463
+Atilla, F., & Zwaan, R. A. (2024). Impact of spatial distance on public attention and sentiment during the spread of COVID-19. *Informatics in Medicine Unlocked*, 101463. https://doi.org/10.1016/j.imu.2024.101463
